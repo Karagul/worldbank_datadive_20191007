@@ -40,3 +40,6 @@ rsconnect/
 
 # raw data folders
 /02_raw_data/
+
+# misc folders
+/z_*/
