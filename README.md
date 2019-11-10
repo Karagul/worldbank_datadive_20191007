@@ -1,6 +1,7 @@
-# Worldbank Data Dive October 7th, 2019
+# Worldbank Data Dive - October 7th, 2019
 
 Data Sources: World Development Indicators, The World Bank From: https://data.worldbank.org/indicator?tab=all Accessed on October 7, 2019
+
 More specifically: 
 * Government expenditure on education, total (% of GDP): SE.XPD.TOTL.GD.ZS
 * GDP per capita (constant 2010 US$): NY.GDP.PCAP.KD
