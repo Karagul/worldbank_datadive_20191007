@@ -34,3 +34,9 @@ vignettes/*.pdf
 
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
+
+# authentication stuff
+*_auth
+
+# raw data folders
+/02_raw_data/
